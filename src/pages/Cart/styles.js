@@ -20,7 +20,7 @@ export const Container = styled.div`
 			padding: 12px 20px;
 			font-weight: bold;
 			text-transform: uppercase;
-			transition: background 0.2s
+			transition: background 0.2s;
 
 			&:hover {
 				background: ${darken(0.03, '#7159c1')};
