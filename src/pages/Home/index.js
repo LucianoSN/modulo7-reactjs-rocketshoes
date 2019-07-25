@@ -14,7 +14,7 @@ export default function Home() {
 				<strong>Tênis muito legal</strong>
 				<span>R$129,00</span>
 
-				<button>
+				<button type="button">
 					<div>
 						<MdShoppingCart size={16} color="#fff" /> 3
 					</div>
@@ -29,7 +29,7 @@ export default function Home() {
 				<strong>Tênis muito legal</strong>
 				<span>R$129,00</span>
 
-				<button>
+				<button type="button">
 					<div>
 						<MdShoppingCart size={16} color="#fff" /> 3
 					</div>
@@ -44,7 +44,7 @@ export default function Home() {
 				<strong>Tênis muito legal</strong>
 				<span>R$129,00</span>
 
-				<button>
+				<button type="button">
 					<div>
 						<MdShoppingCart size={16} color="#fff" /> 3
 					</div>
@@ -59,7 +59,7 @@ export default function Home() {
 				<strong>Tênis muito legal</strong>
 				<span>R$129,00</span>
 
-				<button>
+				<button type="button">
 					<div>
 						<MdShoppingCart size={16} color="#fff" /> 3
 					</div>
@@ -74,7 +74,7 @@ export default function Home() {
 				<strong>Tênis muito legal</strong>
 				<span>R$129,00</span>
 
-				<button>
+				<button type="button">
 					<div>
 						<MdShoppingCart size={16} color="#fff" /> 3
 					</div>
@@ -89,7 +89,7 @@ export default function Home() {
 				<strong>Tênis muito legal</strong>
 				<span>R$129,00</span>
 
-				<button>
+				<button type="button">
 					<div>
 						<MdShoppingCart size={16} color="#fff" /> 3
 					</div>
